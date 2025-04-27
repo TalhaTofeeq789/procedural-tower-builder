@@ -13,7 +13,7 @@ This project is developed for **Assignment 3** under the supervision of **Saba G
 
 ## 🎮 **Gameplay Features**
 
-### 🖐️ **Touch Input & Raycasting**  
+### 🖐️ **Touch Input**  
 - **Mobile Support**: Players can tap the screen to drop blocks (using `Input.GetTouch(0)`).
 - **Editor Support**: For easy testing in Unity Editor, mouse clicks are used for block placement.
 
